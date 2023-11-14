@@ -1,0 +1,387 @@
+{
+    "Markers": [
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-27T20:18:49.762426-05:00",
+            "extras": {
+            },
+            "index": 1,
+            "label": "serial",
+            "originalEndDatetime": "2023-09-27T20:18:49.764033-05:00",
+            "originalStartDatetime": "2023-09-27T20:18:49.764033-05:00",
+            "port": "SerialPort",
+            "startDatetime": "2023-09-27T20:18:49.762426-05:00",
+            "type": "instance",
+            "uuid": "f868c61a-ce4b-4677-9de7-e7775b1a4760",
+            "value": 116
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-27T20:18:56.766362-05:00",
+            "extras": {
+            },
+            "index": 2,
+            "label": "serial",
+            "originalEndDatetime": "2023-09-27T20:18:56.766181-05:00",
+            "originalStartDatetime": "2023-09-27T20:18:56.766181-05:00",
+            "port": "SerialPort",
+            "startDatetime": "2023-09-27T20:18:56.766362-05:00",
+            "type": "instance",
+            "uuid": "a813ed64-986e-4b61-9951-6ae6ef72437b",
+            "value": 116
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-27T20:19:03.766395-05:00",
+            "extras": {
+            },
+            "index": 3,
+            "label": "serial",
+            "originalEndDatetime": "2023-09-27T20:19:03.767482-05:00",
+            "originalStartDatetime": "2023-09-27T20:19:03.767482-05:00",
+            "port": "SerialPort",
+            "startDatetime": "2023-09-27T20:19:03.766395-05:00",
+            "type": "instance",
+            "uuid": "109b9348-a267-4635-a63b-39c36f6c6aa8",
+            "value": 116
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-27T20:19:10.774235-05:00",
+            "extras": {
+            },
+            "index": 4,
+            "label": "serial",
+            "originalEndDatetime": "2023-09-27T20:19:10.773145-05:00",
+            "originalStartDatetime": "2023-09-27T20:19:10.773145-05:00",
+            "port": "SerialPort",
+            "startDatetime": "2023-09-27T20:19:10.774235-05:00",
+            "type": "instance",
+            "uuid": "d5b856e8-8e23-491c-8a7a-54c104e106d2",
+            "value": 116
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-27T20:19:17.774267-05:00",
+            "extras": {
+            },
+            "index": 5,
+            "label": "serial",
+            "originalEndDatetime": "2023-09-27T20:19:17.774201-05:00",
+            "originalStartDatetime": "2023-09-27T20:19:17.774201-05:00",
+            "port": "SerialPort",
+            "startDatetime": "2023-09-27T20:19:17.774267-05:00",
+            "type": "instance",
+            "uuid": "d61f2346-3080-457b-bd50-84ba889b7e93",
+            "value": 116
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-27T20:19:24.778203-05:00",
+            "extras": {
+            },
+            "index": 6,
+            "label": "serial",
+            "originalEndDatetime": "2023-09-27T20:19:24.778350-05:00",
+            "originalStartDatetime": "2023-09-27T20:19:24.778350-05:00",
+            "port": "SerialPort",
+            "startDatetime": "2023-09-27T20:19:24.778203-05:00",
+            "type": "instance",
+            "uuid": "2993694b-8b46-4d31-a94d-0e7f104fabe8",
+            "value": 116
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-27T20:19:31.778236-05:00",
+            "extras": {
+            },
+            "index": 7,
+            "label": "serial",
+            "originalEndDatetime": "2023-09-27T20:19:31.778345-05:00",
+            "originalStartDatetime": "2023-09-27T20:19:31.778345-05:00",
+            "port": "SerialPort",
+            "startDatetime": "2023-09-27T20:19:31.778236-05:00",
+            "type": "instance",
+            "uuid": "cf630286-99b0-4267-81b2-63ea04d0da33",
+            "value": 116
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-27T20:19:38.782172-05:00",
+            "extras": {
+            },
+            "index": 8,
+            "label": "serial",
+            "originalEndDatetime": "2023-09-27T20:19:38.780945-05:00",
+            "originalStartDatetime": "2023-09-27T20:19:38.780945-05:00",
+            "port": "SerialPort",
+            "startDatetime": "2023-09-27T20:19:38.782172-05:00",
+            "type": "instance",
+            "uuid": "b3065241-aa2d-4306-91bd-070715a56ef1",
+            "value": 116
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-27T20:19:45.782204-05:00",
+            "extras": {
+            },
+            "index": 9,
+            "label": "serial",
+            "originalEndDatetime": "2023-09-27T20:19:45.782492-05:00",
+            "originalStartDatetime": "2023-09-27T20:19:45.782492-05:00",
+            "port": "SerialPort",
+            "startDatetime": "2023-09-27T20:19:45.782204-05:00",
+            "type": "instance",
+            "uuid": "28f9e680-806f-45ff-a781-9ee3d5e1ebb5",
+            "value": 116
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-27T20:19:52.782236-05:00",
+            "extras": {
+            },
+            "index": 10,
+            "label": "serial",
+            "originalEndDatetime": "2023-09-27T20:19:52.784181-05:00",
+            "originalStartDatetime": "2023-09-27T20:19:52.784181-05:00",
+            "port": "SerialPort",
+            "startDatetime": "2023-09-27T20:19:52.782236-05:00",
+            "type": "instance",
+            "uuid": "ad46e180-c7cc-43a1-b331-0cc771363efe",
+            "value": 116
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-27T20:19:59.786173-05:00",
+            "extras": {
+            },
+            "index": 11,
+            "label": "serial",
+            "originalEndDatetime": "2023-09-27T20:19:59.787431-05:00",
+            "originalStartDatetime": "2023-09-27T20:19:59.787431-05:00",
+            "port": "SerialPort",
+            "startDatetime": "2023-09-27T20:19:59.786173-05:00",
+            "type": "instance",
+            "uuid": "2855e83a-05f5-4238-9ce8-43f670d4b346",
+            "value": 116
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-27T20:20:06.790109-05:00",
+            "extras": {
+            },
+            "index": 12,
+            "label": "serial",
+            "originalEndDatetime": "2023-09-27T20:20:06.788679-05:00",
+            "originalStartDatetime": "2023-09-27T20:20:06.788679-05:00",
+            "port": "SerialPort",
+            "startDatetime": "2023-09-27T20:20:06.790109-05:00",
+            "type": "instance",
+            "uuid": "cf31cb80-e5b3-44b3-a3ed-90892ac3e5ea",
+            "value": 116
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-27T20:20:13.794045-05:00",
+            "extras": {
+            },
+            "index": 13,
+            "label": "serial",
+            "originalEndDatetime": "2023-09-27T20:20:13.792562-05:00",
+            "originalStartDatetime": "2023-09-27T20:20:13.792562-05:00",
+            "port": "SerialPort",
+            "startDatetime": "2023-09-27T20:20:13.794045-05:00",
+            "type": "instance",
+            "uuid": "5c203eca-f628-4614-983b-b9988f845287",
+            "value": 116
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-27T20:20:20.794077-05:00",
+            "extras": {
+            },
+            "index": 14,
+            "label": "serial",
+            "originalEndDatetime": "2023-09-27T20:20:20.793420-05:00",
+            "originalStartDatetime": "2023-09-27T20:20:20.793420-05:00",
+            "port": "SerialPort",
+            "startDatetime": "2023-09-27T20:20:20.794077-05:00",
+            "type": "instance",
+            "uuid": "9054ebb0-bfe6-44f9-99f8-946bc805ce56",
+            "value": 116
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-27T20:20:27.794109-05:00",
+            "extras": {
+            },
+            "index": 15,
+            "label": "serial",
+            "originalEndDatetime": "2023-09-27T20:20:27.795813-05:00",
+            "originalStartDatetime": "2023-09-27T20:20:27.795813-05:00",
+            "port": "SerialPort",
+            "startDatetime": "2023-09-27T20:20:27.794109-05:00",
+            "type": "instance",
+            "uuid": "232e21e1-39d5-4938-ace8-4801fb9d3ee9",
+            "value": 116
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-27T20:20:34.798046-05:00",
+            "extras": {
+            },
+            "index": 16,
+            "label": "serial",
+            "originalEndDatetime": "2023-09-27T20:20:34.796732-05:00",
+            "originalStartDatetime": "2023-09-27T20:20:34.796732-05:00",
+            "port": "SerialPort",
+            "startDatetime": "2023-09-27T20:20:34.798046-05:00",
+            "type": "instance",
+            "uuid": "1a253efc-c8f8-4078-a152-781e544af31a",
+            "value": 116
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-27T20:20:41.798078-05:00",
+            "extras": {
+            },
+            "index": 17,
+            "label": "serial",
+            "originalEndDatetime": "2023-09-27T20:20:41.798878-05:00",
+            "originalStartDatetime": "2023-09-27T20:20:41.798878-05:00",
+            "port": "SerialPort",
+            "startDatetime": "2023-09-27T20:20:41.798078-05:00",
+            "type": "instance",
+            "uuid": "87358f53-bcdc-48b8-b9e8-be18c7de4893",
+            "value": 116
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-27T20:20:48.802014-05:00",
+            "extras": {
+            },
+            "index": 18,
+            "label": "serial",
+            "originalEndDatetime": "2023-09-27T20:20:48.800858-05:00",
+            "originalStartDatetime": "2023-09-27T20:20:48.800858-05:00",
+            "port": "SerialPort",
+            "startDatetime": "2023-09-27T20:20:48.802014-05:00",
+            "type": "instance",
+            "uuid": "725acf5d-db71-42e2-9e77-2f3b31bf5e4b",
+            "value": 116
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-27T20:20:55.802046-05:00",
+            "extras": {
+            },
+            "index": 19,
+            "label": "serial",
+            "originalEndDatetime": "2023-09-27T20:20:55.801884-05:00",
+            "originalStartDatetime": "2023-09-27T20:20:55.801884-05:00",
+            "port": "SerialPort",
+            "startDatetime": "2023-09-27T20:20:55.802046-05:00",
+            "type": "instance",
+            "uuid": "b1bf5731-a9af-4e7e-b415-aaa64d207d5a",
+            "value": 116
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-27T20:21:02.805983-05:00",
+            "extras": {
+            },
+            "index": 20,
+            "label": "serial",
+            "originalEndDatetime": "2023-09-27T20:21:02.804532-05:00",
+            "originalStartDatetime": "2023-09-27T20:21:02.804532-05:00",
+            "port": "SerialPort",
+            "startDatetime": "2023-09-27T20:21:02.805983-05:00",
+            "type": "instance",
+            "uuid": "426d19cf-6a5e-4ca1-b82a-1c8475fdf8cf",
+            "value": 116
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-27T20:21:09.806015-05:00",
+            "extras": {
+            },
+            "index": 21,
+            "label": "serial",
+            "originalEndDatetime": "2023-09-27T20:21:09.805275-05:00",
+            "originalStartDatetime": "2023-09-27T20:21:09.805275-05:00",
+            "port": "SerialPort",
+            "startDatetime": "2023-09-27T20:21:09.806015-05:00",
+            "type": "instance",
+            "uuid": "4d6583b4-8493-4250-8d4e-d33aeb5c94c0",
+            "value": 116
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-27T20:21:16.806047-05:00",
+            "extras": {
+            },
+            "index": 22,
+            "label": "serial",
+            "originalEndDatetime": "2023-09-27T20:21:16.807232-05:00",
+            "originalStartDatetime": "2023-09-27T20:21:16.807232-05:00",
+            "port": "SerialPort",
+            "startDatetime": "2023-09-27T20:21:16.806047-05:00",
+            "type": "instance",
+            "uuid": "ab7bb8e5-9da9-42f7-b6c9-626e4e573dce",
+            "value": 116
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-27T20:21:23.809983-05:00",
+            "extras": {
+            },
+            "index": 23,
+            "label": "serial",
+            "originalEndDatetime": "2023-09-27T20:21:23.808842-05:00",
+            "originalStartDatetime": "2023-09-27T20:21:23.808842-05:00",
+            "port": "SerialPort",
+            "startDatetime": "2023-09-27T20:21:23.809983-05:00",
+            "type": "instance",
+            "uuid": "7a547313-9a9e-4569-9673-ba578066d1b3",
+            "value": 116
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-27T20:21:30.821728-05:00",
+            "extras": {
+            },
+            "index": 24,
+            "label": "serial",
+            "originalEndDatetime": "2023-09-27T20:21:30.820626-05:00",
+            "originalStartDatetime": "2023-09-27T20:21:30.820626-05:00",
+            "port": "SerialPort",
+            "startDatetime": "2023-09-27T20:21:30.821728-05:00",
+            "type": "instance",
+            "uuid": "7f4e59ac-003f-48cc-995b-8a3873195e4c",
+            "value": 116
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2023-09-27T20:21:37.817856-05:00",
+            "extras": {
+            },
+            "index": 25,
+            "label": "serial",
+            "originalEndDatetime": "2023-09-27T20:21:37.819725-05:00",
+            "originalStartDatetime": "2023-09-27T20:21:37.819725-05:00",
+            "port": "SerialPort",
+            "startDatetime": "2023-09-27T20:21:37.817856-05:00",
+            "type": "instance",
+            "uuid": "9c5da72c-b53b-4e85-8b43-8ae08a833b3c",
+            "value": 116
+        }
+    ],
+    "connectionType": "dongle",
+    "exportApp": "com.emotiv.emotivpro",
+    "exportTime": "2023-09-27T20:23:08.909-05:00",
+    "headsetType": "EPOCX",
+    "mappings": null,
+    "montageType": "UNKNOWN",
+    "recordId": "0f2a5b28-febf-430f-b1bd-ae4cc2c70b93",
+    "user": "deyka"
+}
